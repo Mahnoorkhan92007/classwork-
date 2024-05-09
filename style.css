@@ -1,0 +1,56 @@
+.navbar ul li{
+    list-style: none;
+    text-decoration: none;
+    align-items:center ;
+    display: inline;
+    margin-left: 152px;
+    margin-bottom: 140px;
+  
+   }
+
+.button a button{
+    float: right;
+    border-radius: 40px;
+    background-color: gold;
+    border-color: gold;
+
+}
+
+
+.content{
+    width: 45%;
+
+}
+
+
+.main{
+    display: flex;
+    margin: 30px;
+}
+
+.icons img{
+    width: 35px;
+    float: right;
+}
+    
+   
+    .container{
+        background-color:antiquewhite ;
+    }
+
+    .logo img{
+        margin-top: 60px;
+        display: inline;
+
+    }
+
+    .submit a button{
+        border-radius: 80px;
+        background-color:black; 
+         border-color: black;
+         margin-top: 60px;
+         color: #ffff;
+    }
+
+
+    
